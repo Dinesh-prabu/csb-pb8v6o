@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dinesh-prabu.github.io/csb-pb8v6o/static/css/main.ffc43283.chunk.css",
+    "main.js": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/main.4c92688f.chunk.js",
+    "main.js.map": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/main.4c92688f.chunk.js.map",
+    "runtime-main.js": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/runtime-main.91a87882.js",
+    "runtime-main.js.map": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/runtime-main.91a87882.js.map",
+    "static/js/2.46eff1b5.chunk.js": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/2.46eff1b5.chunk.js",
+    "static/js/2.46eff1b5.chunk.js.map": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/2.46eff1b5.chunk.js.map",
+    "index.html": "https://dinesh-prabu.github.io/csb-pb8v6o/index.html",
+    "static/css/main.ffc43283.chunk.css.map": "https://dinesh-prabu.github.io/csb-pb8v6o/static/css/main.ffc43283.chunk.css.map",
+    "static/js/2.46eff1b5.chunk.js.LICENSE.txt": "https://dinesh-prabu.github.io/csb-pb8v6o/static/js/2.46eff1b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91a87882.js",
+    "static/js/2.46eff1b5.chunk.js",
+    "static/css/main.ffc43283.chunk.css",
+    "static/js/main.4c92688f.chunk.js"
+  ]
+}
